@@ -1,0 +1,11 @@
+img { width: 100% }
+
+
+
+
+
+/* kai naršyklės plotis <= 768px, "Top stories" ir "What's new" blokai rodomi vienas po kitu.
+
+kai naršyklės plotis > 768px, "Top stories" ir "What's new" blokai rodomi vienas šalia kito santykiu 8:4.
+
+kai naršyklės plotis > 992px, "Top stories" viduje esantys straipsniai rodomi po du, vienodo pločio. */
